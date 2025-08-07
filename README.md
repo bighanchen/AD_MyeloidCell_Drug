@@ -5,6 +5,8 @@ R scripts for statistics of ST data:
 2) nCount/nFeature distribution;
 3) Abeta distribution and correlation
 4) Abeta feature plots
+## ST_cortical_regions_Heatmap.ipynb
+R scripts for generating cortical regions heatmap  
 ## ST_DysregulatedGenes_Global.R
 R scripts for global identification of dysregulated genes during AD progression
 1) Find the differentially expressed genes between AD and WT brains
