@@ -38,6 +38,11 @@ R scripts for VISION signature score calculation of ST data
 3) Signature scores of genes affected by both abeta and aging: Regional
 4) Signature scores of common aging genes
 5) Signature scores in public ST data from APP/PS1 mouse model
+## scRNAseq_WhiteMatter.ipynb
+R scripts for white matter scRNA-seq data analysis
+
+authors: Yuhan Jia (jiayuhan21@mails.ucas.ac.cn) and Yiyang Zhang (zhangyiyang1328@163.com)
+##
 ## scRNAseq_VISION_SignatureScore.R
 R scripts for analysis of public snRNA-seq data (GSE143758) and VISION signature score calculation
 1) data analysis of public snRNA-seq data: DoubletFinder, CCA, Cell type annotation
