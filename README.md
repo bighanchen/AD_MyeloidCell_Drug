@@ -5,6 +5,14 @@ R scripts for statistics of ST data:
 2) nCount/nFeature distribution;
 3) Abeta distribution and correlation
 4) Abeta feature plots
+## ST_STAligner.ipynb
+R scripts for STAligner analysis
+
+authors: Yuhan Jia (jiayuhan21@mails.ucas.ac.cn) and Yiyang Zhang (zhangyiyang1328@163.com)
+## ST_STAGATE_Denoising_7region_markers.ipynb
+R scripts for STAGATE analysis
+
+authors: Yuhan Jia (jiayuhan21@mails.ucas.ac.cn) and Yiyang Zhang (zhangyiyang1328@163.com)
 ## ST_cortical_regions_Heatmap.ipynb
 R scripts for generating cortical regions heatmap  
 1) Spatial heatmap plotting of the specific genes of some special cortical regions
@@ -13,7 +21,8 @@ R scripts for generating cortical regions heatmap
 4) Read Specific Genes
 5) Read Region SVG
 6) Heatmap plot
-7) authors: Yuhan Jia (jiayuhan21@mails.ucas.ac.cn) and Yiyang Zhang (zhangyiyang1328@163.com)
+
+authors: Yuhan Jia (jiayuhan21@mails.ucas.ac.cn) and Yiyang Zhang (zhangyiyang1328@163.com)
 ## ST_DysregulatedGenes_Global.R
 R scripts for global identification of dysregulated genes during AD progression
 1) Find the differentially expressed genes between AD and WT brains
