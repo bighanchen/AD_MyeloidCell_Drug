@@ -42,8 +42,11 @@ R scripts for VISION signature score calculation of ST data
 R scripts for white matter scRNA-seq data analysis
 
 authors: Yuhan Jia (jiayuhan21@mails.ucas.ac.cn) and Yiyang Zhang (zhangyiyang1328@163.com)
-##
-## scRNAseq_VISION_SignatureScore.R
+## snRNAseq_Cortex_Hippocampus.ipynb
+R scripts for cortex and hippocampus snRNA-seq data analysis
+
+authors: Yuhan Jia (jiayuhan21@mails.ucas.ac.cn) and Yiyang Zhang (zhangyiyang1328@163.com)
+## snRNAseq_VISION_SignatureScore.R
 R scripts for analysis of public snRNA-seq data (GSE143758) and VISION signature score calculation
 1) data analysis of public snRNA-seq data: DoubletFinder, CCA, Cell type annotation
 2) Signature score calculation
