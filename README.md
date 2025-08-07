@@ -7,6 +7,13 @@ R scripts for statistics of ST data:
 4) Abeta feature plots
 ## ST_cortical_regions_Heatmap.ipynb
 R scripts for generating cortical regions heatmap  
+1) Spatial heatmap plotting of the specific genes of some special cortical regions
+2) Merage data
+3) Find DEG on cortical regions
+4) Read Specific Genes
+5) Read Region SVG
+6) Heatmap plot
+7) authors: Yuhan Jia (jiayuhan21@mails.ucas.ac.cn) and Yiyang Zhang (zhangyiyang1328@163.com)
 ## ST_DysregulatedGenes_Global.R
 R scripts for global identification of dysregulated genes during AD progression
 1) Find the differentially expressed genes between AD and WT brains
