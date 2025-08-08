@@ -1,3 +1,4 @@
+# author: Xiaowei Chen (chenxiaowei@ibp.ac.cn)
 # import packages
 library(Seurat)
 library(tidyr)
@@ -285,6 +286,7 @@ age_only_deg_sig_list <- c()
 age_only_deg_sig <- createGeneSignature(name = "age_only_deg_sig", sigData = age_only_deg_sig_vec)
 age_only_deg_sig_list <- c(age_only_deg_sig_list,age_only_deg_sig)
 save(age_only_deg_sig_list, file='Signature_repository/age_only_deg_sig_list.bin')
+
 
 
 
