@@ -1,3 +1,4 @@
+# author: Xiaowei Chen (chenxiaowei@ibp.ac.cn)
 # import packages
 library(dplyr)
 library(tidyr)
@@ -498,6 +499,7 @@ wrap_plots(
      SpatialFeaturePlot(APP_PS1, features = 'CAS_sig')+ 
      scale_fill_gradientn(colors = colorRampPalette(colors = rev(x = brewer.pal(n = 11, name = "Spectral")))(100),limits = c(min_aggr_all_deg,max_aggr_all_deg))
      )
+
 
 
 
