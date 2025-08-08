@@ -1,3 +1,4 @@
+# author: Xiaowei Chen (chenxiaowei@ibp.ac.cn)
 #import packages
 library(Seurat)
 library(tidyr)
@@ -279,4 +280,5 @@ ST_15M_AD_2_1_stddev_upper_p <- SpatialFeaturePlot(ST_15M_AD_2_1, features = 'st
 scale_fill_gradientn(colors = colorRampPalette(colors = rev(x = brewer.pal(n = 11, name = "Spectral")))(100),limits = c(0,max_limit))
 
 options(repr.plot.width=14, repr.plot.height=7)
+
 ST_15M_AD_2_1_stddev_lower_p | ST_15M_AD_2_1_stddev_upper_p
