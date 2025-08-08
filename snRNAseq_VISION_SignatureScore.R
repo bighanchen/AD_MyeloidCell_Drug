@@ -1,3 +1,4 @@
+# author: Xiaowei Chen (chenxiaowei@ibp.ac.cn)
 # import packages
 library(Seurat)
 library(VISION)
@@ -205,6 +206,7 @@ ggplot(na.omit(region_all_deg_vln_df), aes(x=celltype, y=score , fill = status))
 geom_boxplot(position=position_dodge(1),outlier.shape = NA) #+
 #geom_jitter() #+
 #stat_summary(fun=median, geom="smooth",aes(group=1))
+
 
 
 
