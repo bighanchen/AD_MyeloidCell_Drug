@@ -1,3 +1,4 @@
+# author: Xiaowei Chen (chenxiaowei@ibp.ac.cn)
 # import packages
 library(Seurat)
 library(tidyr)
@@ -384,3 +385,4 @@ save(region_common_all_deg_sig_list, file='Signature_repository/region_common_al
 
 dysregulated_full_join_common <- rbind(up_regulated_full_join_common,down_regulated_full_join_common)
 write.csv(dysregulated_full_join_common,'Signature_repository/dysregulated_gene_common_regions.csv',quote = FALSE)
+
